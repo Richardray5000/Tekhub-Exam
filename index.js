@@ -5,3 +5,4 @@ hamburger.addEventListener("click", () => {
   const open = menu.classList.toggle("show");
   hamburger.innerHTML = open ? "&times;" : "&#8801;";
 });
+dom;
